@@ -1,0 +1,14 @@
+C:\Users\miaro\CSharp\SE1\bin\Debug\net10.0\SE1.exe
+C:\Users\miaro\CSharp\SE1\bin\Debug\net10.0\SE1.deps.json
+C:\Users\miaro\CSharp\SE1\bin\Debug\net10.0\SE1.runtimeconfig.json
+C:\Users\miaro\CSharp\SE1\bin\Debug\net10.0\SE1.dll
+C:\Users\miaro\CSharp\SE1\bin\Debug\net10.0\SE1.pdb
+C:\Users\miaro\CSharp\SE1\obj\Debug\net10.0\SE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miaro\CSharp\SE1\obj\Debug\net10.0\SE1.AssemblyInfoInputs.cache
+C:\Users\miaro\CSharp\SE1\obj\Debug\net10.0\SE1.AssemblyInfo.cs
+C:\Users\miaro\CSharp\SE1\obj\Debug\net10.0\SE1.csproj.CoreCompileInputs.cache
+C:\Users\miaro\CSharp\SE1\obj\Debug\net10.0\SE1.dll
+C:\Users\miaro\CSharp\SE1\obj\Debug\net10.0\refint\SE1.dll
+C:\Users\miaro\CSharp\SE1\obj\Debug\net10.0\SE1.pdb
+C:\Users\miaro\CSharp\SE1\obj\Debug\net10.0\SE1.genruntimeconfig.cache
+C:\Users\miaro\CSharp\SE1\obj\Debug\net10.0\ref\SE1.dll
